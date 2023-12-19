@@ -32,7 +32,17 @@ body {
   width: 140px;
   height: 140px;
 }
-
+.avatar:hover {
+  border: 3px solid #FFD700;
+}
+.avatar {
+  border-radius: 100px;
+  /* Радиус скругления */
+  border: 3px solid transparent;
+  /* Параметры рамки */
+  box-shadow: 0 4px 15px 0px rgba(0, 0, 0, 0.52);
+  object-fit: cover;
+}
 .header__title {
   margin: 0;
   font-weight: 700;

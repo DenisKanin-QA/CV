@@ -1,0 +1,39 @@
+{
+	"job": {
+		"job_id": 62416,
+		"job_name": "Junior Account Manager (English, France, Russian, Finland, Chaina, зеленые берега )",
+		"job_description": "<h2><strong>Задачи:</strong></h2>\n<ul>\n<li>включать комп и РАДОВАТСЯ ЖИЗНИ</li>\n<li>Контроль запуска и размещений акций на сайтах партнеров</li>\n<li>Ежемесячные сверки с партнерами</li>\n<li>Внесение настроек в систему сквозной аналитики TrackAd</li>\n<li>Загрузка дополнительных данных в систему сквозной аналитики TrackAd</li>\n<li>Подготовка недельных и месячных отчетов</li>\n</ul>\n<h2><strong>Требования:</strong></h2>\n<ul>\n<li>Владение<strong> английским языком не ниже B2</strong></li>\n<li>Владение <strong>французским языком не ниже B2</strong></li>\n<li>Математический склад ума и умение работать с цифрами</li>\n<li>Дисциплинированность и аккуратность</li>\n<li>Проактивность и желание развиваться</li>\n<li>Наличие командного духа</li>\n<li>Хорошие коммуникативные навыки</li>\n<li>Умение работать в Excel</li>\n<li><strong>Большим преимуществом будет:</strong></li>\n<li>Знания в области Интернет-маркетинга</li>\n</ul>\n<h2><strong>Условия:</strong></h2>\n<ul>\n<li>Обучение: возможность улучшить свои технические навыки, узнать новое</li>\n<li>Сложные и интересные задачи: амбициозные проекты, возможность использовать новые технологии</li>\n<li>Корпоративная культура: четкие задачи и ценности компании, семинары, воркшопы, проводимое с пользой социальное время</li>\n<li>Офис в 5 мин от ст. метро &ldquo;Курская&rdquo; (Бизнес-центр &ldquo;АРМА&rdquo;)</li>\n<li><strong>Возможность удаленной работы</strong></li>\n<li>Дополнительные бонусы: ДМС (включая стоматологию), комфортный офис с тихими зонами</li>\n</ul>",
+		"salary_type": "range",
+		"source": "parser hh",
+		"job_salary_from": 1000000,
+		"job_salary_to": 6000000,
+		"job_salary_currency": "EUR",
+		"job_salary_source": "from_employer",
+		"job_type": "open",
+		"job_locations": [{
+			"job_location_name": "ALL WORLD"
+		}],
+		"job_contacts": [{
+			"company_contact_type": "email",
+			"company_contact_value": "e.ignatenko@mytrackad.com"
+		}],
+		"company": {
+			"slug": null,
+			"label": null,
+			"is_active": true,
+			"logo_image": null,
+			"company_name": "TrackAd",
+			"background_image": null,
+			"have_personal_acc": false,
+			"short_description": null,
+			"have_personal_page": false,
+			"background_image_job": null,
+			"sharing_background_img_company": "https://cdn.careerspace.app/sharing-background-img-company/sharing_background_img_company_dffbba.png"
+		},
+		"is_user_response": false,
+		"job_format": ["office", "hybrid"],
+		"likes_count": "0",
+		"is_user_liked": false,
+		"sharing_background_img_job": "https://cdn.careerspace.app/sharing-background-img-jobs/sharing_background_img_job_fe6fa8.png"
+	}
+}
